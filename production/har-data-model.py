@@ -21,7 +21,7 @@ parser = argparse.ArgumentParser()
 parser.add_argument("--data", type=str, required=True, help='Dataset path')
 args = parser.parse_args()
 mlflow.autolog()
-mlflow.log_param("hello_param", "action_classifier")
+mlflow.log_param("hello_param", "action_classifier")  
 
 data=pd.read(args.data)
 # data_csv = pd.read_csv("human-activity-recognition.csv")
