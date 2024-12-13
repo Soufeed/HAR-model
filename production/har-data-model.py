@@ -23,20 +23,20 @@ args = parser.parse_args()
 mlflow.autolog()
 mlflow.log_param("hello_param", "action_classifier")  
 
-data=pd.read(args.data)
+data=pd.read_csv(args.data)
 # data_csv = pd.read_csv("human-activity-recognition.csv")
 
 print(data.head())
-print(data["Activity"].unique())
+print(data["activity"].unique())
 print('Number of duplicates in data : ',sum(data.duplicated()))
 print('Total number of missing values in train : ', data.isna().values.sum())
 
-data_df = data[~data['Activity'].isin(['DOWNSTAIRS', 'UPSTAIRS'])]
-print(data_df.Activity.value_counts())
+data_df = data[~data['activity'].isin(['Downstairs', 'Upstairs'])]
+print(data_df.activity.value_counts())
 
 #drop
-y_data_df = data_df.Activity
-x_data_df = data_df.drop(['subject', 'Activity'], axis=1)
+y_data_df = data_df.activity
+x_data_df = data_df.drop(['activity'], axis=1)
 
 #Split the data and keep 20% back for testing later
 X_train, X_test, Y_train, Y_test = train_test_split(x_data_df, y_data_df, test_size=0.20)
@@ -96,3 +96,5 @@ def plot_confusion_matrix(cm,lables):
 # Plot the confusion matrix
 cm = confusion_matrix(Y_test.values,y_pred)
 plot_confusion_matrix(cm, np.unique(y_pred))  # plotting confusion matrix
+
+# subscription ID = 19c70fe4-6e15-4af5-a800-2637210604f6

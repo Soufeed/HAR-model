@@ -1,0 +1,15 @@
+artifact_uri: file:///P:/coursework/git/HAR-pipeline/HAR-model/mlruns/0/d0d8d6376a43481c93b8827d1561f9c3/artifacts
+end_time: 1734043384206
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d0d8d6376a43481c93b8827d1561f9c3
+run_name: trusting-kite-961
+run_uuid: d0d8d6376a43481c93b8827d1561f9c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734042947776
+status: 3
+tags: []
+user_id: b00960389

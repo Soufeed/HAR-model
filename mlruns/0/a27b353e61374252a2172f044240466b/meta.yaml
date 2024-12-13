@@ -1,0 +1,15 @@
+artifact_uri: file:///P:/coursework/git/HAR-pipeline/HAR-model/mlruns/0/a27b353e61374252a2172f044240466b/artifacts
+end_time: 1734042577165
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a27b353e61374252a2172f044240466b
+run_name: nimble-loon-897
+run_uuid: a27b353e61374252a2172f044240466b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734042484351
+status: 3
+tags: []
+user_id: b00960389

@@ -1,0 +1,15 @@
+artifact_uri: file:///P:/coursework/git/HAR-pipeline/HAR-model/mlruns/0/bf44fd4f1622497aa957d5858aba5a3c/artifacts
+end_time: 1734041021327
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bf44fd4f1622497aa957d5858aba5a3c
+run_name: orderly-hare-61
+run_uuid: bf44fd4f1622497aa957d5858aba5a3c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734041020122
+status: 3
+tags: []
+user_id: b00960389

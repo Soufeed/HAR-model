@@ -1,0 +1,15 @@
+artifact_uri: file:///P:/coursework/git/HAR-pipeline/HAR-model/mlruns/0/f7a3552bfb43488b8e07bb85338d0cbc/artifacts
+end_time: 1734043384206
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f7a3552bfb43488b8e07bb85338d0cbc
+run_name: respected-bug-449
+run_uuid: f7a3552bfb43488b8e07bb85338d0cbc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734042947776
+status: 3
+tags: []
+user_id: b00960389

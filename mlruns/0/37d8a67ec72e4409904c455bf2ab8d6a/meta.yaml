@@ -1,0 +1,15 @@
+artifact_uri: file:///P:/coursework/git/HAR-pipeline/HAR-model/mlruns/0/37d8a67ec72e4409904c455bf2ab8d6a/artifacts
+end_time: 1734042472699
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 37d8a67ec72e4409904c455bf2ab8d6a
+run_name: sedate-steed-575
+run_uuid: 37d8a67ec72e4409904c455bf2ab8d6a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734042153187
+status: 3
+tags: []
+user_id: b00960389

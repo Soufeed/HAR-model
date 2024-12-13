@@ -1,0 +1,15 @@
+artifact_uri: file:///P:/coursework/git/HAR-pipeline/HAR-model/mlruns/0/7766b4f4e656423e9d07c997e0048ed2/artifacts
+end_time: 1734043384206
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7766b4f4e656423e9d07c997e0048ed2
+run_name: fun-grouse-205
+run_uuid: 7766b4f4e656423e9d07c997e0048ed2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734042947776
+status: 3
+tags: []
+user_id: b00960389

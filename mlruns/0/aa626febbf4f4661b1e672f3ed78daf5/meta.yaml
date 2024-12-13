@@ -1,0 +1,15 @@
+artifact_uri: file:///P:/coursework/git/HAR-pipeline/HAR-model/mlruns/0/aa626febbf4f4661b1e672f3ed78daf5/artifacts
+end_time: 1734043384206
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aa626febbf4f4661b1e672f3ed78daf5
+run_name: sneaky-pig-781
+run_uuid: aa626febbf4f4661b1e672f3ed78daf5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734042947776
+status: 3
+tags: []
+user_id: b00960389

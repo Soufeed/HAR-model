@@ -1,0 +1,15 @@
+artifact_uri: file:///P:/coursework/git/HAR-pipeline/HAR-model/mlruns/0/3fa7246d51be417fbc71a99eb4d90d56/artifacts
+end_time: 1734041703264
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3fa7246d51be417fbc71a99eb4d90d56
+run_name: clean-kit-457
+run_uuid: 3fa7246d51be417fbc71a99eb4d90d56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734041613095
+status: 3
+tags: []
+user_id: b00960389

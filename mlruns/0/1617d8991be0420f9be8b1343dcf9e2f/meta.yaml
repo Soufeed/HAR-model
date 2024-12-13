@@ -1,0 +1,15 @@
+artifact_uri: file:///P:/coursework/git/HAR-pipeline/HAR-model/mlruns/0/1617d8991be0420f9be8b1343dcf9e2f/artifacts
+end_time: 1734043390198
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1617d8991be0420f9be8b1343dcf9e2f
+run_name: salty-fish-877
+run_uuid: 1617d8991be0420f9be8b1343dcf9e2f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734042947776
+status: 3
+tags: []
+user_id: b00960389

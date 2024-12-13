@@ -1,0 +1,10 @@
+digest: 1ad0a113
+name: dataset
+profile: '{"num_rows": 170167, "num_elements": 850835}'
+schema: '{"mlflow_colspec": [{"type": "long", "name": "user", "required": true}, {"type":
+  "long", "name": "timestamp", "required": true}, {"type": "double", "name": "x-axis",
+  "required": true}, {"type": "double", "name": "y-axis", "required": true}, {"type":
+  "double", "name": "z-axis", "required": true}]}'
+source: '{"tags": {"mlflow.user": "b00960389", "mlflow.source.name": "p:/coursework/git/HAR-pipeline/HAR-model/production/har-data-model.py",
+  "mlflow.source.type": "LOCAL", "mlflow.source.git.commit": "e30b7dbc06bf506e3337465a34333e3429961dd3"}}'
+source_type: code

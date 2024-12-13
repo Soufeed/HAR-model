@@ -1,0 +1,15 @@
+artifact_uri: file:///P:/coursework/git/HAR-pipeline/HAR-model/mlruns/0/f487617259f54be3b56d3d8e7b50e753/artifacts
+end_time: 1734041703264
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f487617259f54be3b56d3d8e7b50e753
+run_name: carefree-cow-441
+run_uuid: f487617259f54be3b56d3d8e7b50e753
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734041613095
+status: 3
+tags: []
+user_id: b00960389

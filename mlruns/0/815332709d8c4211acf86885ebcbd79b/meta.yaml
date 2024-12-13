@@ -1,0 +1,15 @@
+artifact_uri: file:///P:/coursework/git/HAR-pipeline/HAR-model/mlruns/0/815332709d8c4211acf86885ebcbd79b/artifacts
+end_time: 1734041706741
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 815332709d8c4211acf86885ebcbd79b
+run_name: nosy-goose-896
+run_uuid: 815332709d8c4211acf86885ebcbd79b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734041613095
+status: 3
+tags: []
+user_id: b00960389

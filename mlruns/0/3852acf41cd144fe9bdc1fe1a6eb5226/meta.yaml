@@ -1,0 +1,15 @@
+artifact_uri: file:///P:/coursework/git/HAR-pipeline/HAR-model/mlruns/0/3852acf41cd144fe9bdc1fe1a6eb5226/artifacts
+end_time: 1734041703264
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3852acf41cd144fe9bdc1fe1a6eb5226
+run_name: sneaky-finch-740
+run_uuid: 3852acf41cd144fe9bdc1fe1a6eb5226
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734041613095
+status: 3
+tags: []
+user_id: b00960389

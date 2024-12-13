@@ -1,0 +1,11 @@
+$schema: https://azuremlschemas.azureedge.net/latest/commandJob.schema.json
+code: .
+command: python hac_tab_data_model.py --data ${{ inputs.training_data }}
+inputs:
+  training_data:
+    type: uri_file
+    path: azureml:HAR-data:1
+environment: azureml://registries/azureml/environments/sklearn-1.1/versions/14
+compute: HAR-project
+experiment_name: coursework-human-action-classification
+description: coursework2 demo

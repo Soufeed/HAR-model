@@ -1,0 +1,15 @@
+artifact_uri: file:///P:/coursework/git/HAR-pipeline/HAR-model/mlruns/0/a7a0344d911941ab8e8c6bd6a4501ecf/artifacts
+end_time: 1734040902660
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a7a0344d911941ab8e8c6bd6a4501ecf
+run_name: adaptable-hawk-724
+run_uuid: a7a0344d911941ab8e8c6bd6a4501ecf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734040901356
+status: 3
+tags: []
+user_id: b00960389

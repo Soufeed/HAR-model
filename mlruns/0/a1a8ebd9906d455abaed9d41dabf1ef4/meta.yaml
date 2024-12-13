@@ -1,0 +1,15 @@
+artifact_uri: file:///P:/coursework/git/HAR-pipeline/HAR-model/mlruns/0/a1a8ebd9906d455abaed9d41dabf1ef4/artifacts
+end_time: 1734042472699
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a1a8ebd9906d455abaed9d41dabf1ef4
+run_name: respected-pig-78
+run_uuid: a1a8ebd9906d455abaed9d41dabf1ef4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734042153187
+status: 3
+tags: []
+user_id: b00960389
