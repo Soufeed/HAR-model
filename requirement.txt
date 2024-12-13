@@ -5,3 +5,7 @@ scikit-learn~=1.1.0
 matplotlib==3.7.3
 azure-ai-ml==1.12.1
 fsspec
+#az extension add --name ml
+#az ml job create --file job.yaml --resource-group HAR-proj --workspace-name HAR
+#git config --global user.email "Soufeed-M@ulster.ac.uk"
+#git config --global user.name "Soufeed"
